@@ -1,0 +1,1738 @@
+{
+   "0050":{
+      "INSTR_INSNBR":22449,
+      "INSTR_STKID_NAME":"0050 元大台灣50"
+   },
+   "0056":{
+      "INSTR_INSNBR":22444,
+      "INSTR_STKID_NAME":"0056 元大高股息"
+   },
+   "0061":{
+      "INSTR_INSNBR":22407,
+      "INSTR_STKID_NAME":"0061 元大寶滬深"
+   },
+   "006205":{
+      "INSTR_INSNBR":22441,
+      "INSTR_STKID_NAME":"006205 富邦上証"
+   },
+   "006206":{
+      "INSTR_INSNBR":22467,
+      "INSTR_STKID_NAME":"006206 元大上證50"
+   },
+   "006207":{
+      "INSTR_INSNBR":22416,
+      "INSTR_STKID_NAME":"006207 FH滬深"
+   },
+   "00631L":{
+      "INSTR_INSNBR":22435,
+      "INSTR_STKID_NAME":"00631L 元大台灣50正2"
+   },
+   "00632R":{
+      "INSTR_INSNBR":22410,
+      "INSTR_STKID_NAME":"00632R 元大台灣50反1"
+   },
+   "00633L":{
+      "INSTR_INSNBR":22460,
+      "INSTR_STKID_NAME":"00633L 富邦上証正2"
+   },
+   "00634R":{
+      "INSTR_INSNBR":22451,
+      "INSTR_STKID_NAME":"00634R 富邦上証反1"
+   },
+   "00635U":{
+      "INSTR_INSNBR":22431,
+      "INSTR_STKID_NAME":"00635U 元大S&P黃金"
+   },
+   "00636":{
+      "INSTR_INSNBR":22442,
+      "INSTR_STKID_NAME":"00636 國泰中國A50"
+   },
+   "00637L":{
+      "INSTR_INSNBR":1251110,
+      "INSTR_STKID_NAME":"00637L 元大滬深300正2"
+   },
+   "00638R":{
+      "INSTR_INSNBR":1251094,
+      "INSTR_STKID_NAME":"00638R 元大滬深300反1"
+   },
+   "00639":{
+      "INSTR_INSNBR":1251106,
+      "INSTR_STKID_NAME":"00639 富邦深100"
+   },
+   "00642U":{
+      "INSTR_INSNBR":1616556,
+      "INSTR_STKID_NAME":"00642U 元大S&P石油"
+   },
+   "00643":{
+      "INSTR_INSNBR":1751624,
+      "INSTR_STKID_NAME":"00643 群益深証中小"
+   },
+   "00647L":{
+      "INSTR_INSNBR":1862194,
+      "INSTR_STKID_NAME":"00647L 元大S&P500正2"
+   },
+   "00648R":{
+      "INSTR_INSNBR":1862195,
+      "INSTR_STKID_NAME":"00648R 元大S&P500反1"
+   },
+   "00655L":{
+      "INSTR_INSNBR":2019815,
+      "INSTR_STKID_NAME":"00655L 國泰中國A50正2"
+   },
+   "00656R":{
+      "INSTR_INSNBR":2019816,
+      "INSTR_STKID_NAME":"00656R 國泰中國A50反1"
+   },
+   "00658L":{
+      "INSTR_INSNBR":2089809,
+      "INSTR_STKID_NAME":"00658L 國泰日本正2"
+   },
+   "00659R":{
+      "INSTR_INSNBR":2089810,
+      "INSTR_STKID_NAME":"00659R 國泰日本反1"
+   },
+   "00663L":{
+      "INSTR_INSNBR":2159310,
+      "INSTR_STKID_NAME":"00663L 國泰臺灣加權正2"
+   },
+   "00664R":{
+      "INSTR_INSNBR":2160928,
+      "INSTR_STKID_NAME":"00664R 國泰臺灣加權反1"
+   },
+   "00668":{
+      "INSTR_INSNBR":2240647,
+      "INSTR_STKID_NAME":"00668 國泰美國道瓊"
+   },
+   "00669R":{
+      "INSTR_INSNBR":2240648,
+      "INSTR_STKID_NAME":"00669R 國泰美國道瓊反1"
+   },
+   "00672L":{
+      "INSTR_INSNBR":2236464,
+      "INSTR_STKID_NAME":"00672L 元大S&P原油正2"
+   },
+   "00673R":{
+      "INSTR_INSNBR":2236465,
+      "INSTR_STKID_NAME":"00673R 元大S&P原油反1"
+   },
+   "00677U":{
+      "INSTR_INSNBR":2291310,
+      "INSTR_STKID_NAME":"00677U 富邦VIX"
+   },
+   "00682U":{
+      "INSTR_INSNBR":2344945,
+      "INSTR_STKID_NAME":"00682U 元大美元指數"
+   },
+   "00683L":{
+      "INSTR_INSNBR":2345895,
+      "INSTR_STKID_NAME":"00683L 元大美元指數正2"
+   },
+   "00686R":{
+      "INSTR_INSNBR":2360200,
+      "INSTR_STKID_NAME":"00686R 群益臺灣加權反1"
+   },
+   "00693U":{
+      "INSTR_INSNBR":2380784,
+      "INSTR_STKID_NAME":"00693U 華頓S&P黃豆"
+   },
+   "00702":{
+      "INSTR_INSNBR":2495379,
+      "INSTR_STKID_NAME":"00702 國泰標普低波高息"
+   },
+   "00706L":{
+      "INSTR_INSNBR":2516196,
+      "INSTR_STKID_NAME":"00706L 元大S&P日圓正2"
+   },
+   "00708L":{
+      "INSTR_INSNBR":2516198,
+      "INSTR_STKID_NAME":"00708L 元大S&P黃金正2"
+   },
+   "1101":{
+      "INSTR_INSNBR":10381,
+      "INSTR_STKID_NAME":"1101 台泥"
+   },
+   "1102":{
+      "INSTR_INSNBR":10383,
+      "INSTR_STKID_NAME":"1102 亞泥"
+   },
+   "1215":{
+      "INSTR_INSNBR":10428,
+      "INSTR_STKID_NAME":"1215 卜蜂"
+   },
+   "1216":{
+      "INSTR_INSNBR":12515,
+      "INSTR_STKID_NAME":"1216 統一"
+   },
+   "1218":{
+      "INSTR_INSNBR":12522,
+      "INSTR_STKID_NAME":"1218 泰山"
+   },
+   "1301":{
+      "INSTR_INSNBR":10161,
+      "INSTR_STKID_NAME":"1301 台塑"
+   },
+   "1303":{
+      "INSTR_INSNBR":10164,
+      "INSTR_STKID_NAME":"1303 南亞"
+   },
+   "1305":{
+      "INSTR_INSNBR":10170,
+      "INSTR_STKID_NAME":"1305 華夏"
+   },
+   "1310":{
+      "INSTR_INSNBR":10178,
+      "INSTR_STKID_NAME":"1310 台苯"
+   },
+   "1312":{
+      "INSTR_INSNBR":10180,
+      "INSTR_STKID_NAME":"1312 國喬"
+   },
+   "1314":{
+      "INSTR_INSNBR":10190,
+      "INSTR_STKID_NAME":"1314 中石化"
+   },
+   "1319":{
+      "INSTR_INSNBR":10201,
+      "INSTR_STKID_NAME":"1319 東陽"
+   },
+   "1326":{
+      "INSTR_INSNBR":10437,
+      "INSTR_STKID_NAME":"1326 台化"
+   },
+   "1338":{
+      "INSTR_INSNBR":10443,
+      "INSTR_STKID_NAME":"1338 廣華-KY"
+   },
+   "1402":{
+      "INSTR_INSNBR":10449,
+      "INSTR_STKID_NAME":"1402 遠東新"
+   },
+   "1409":{
+      "INSTR_INSNBR":10461,
+      "INSTR_STKID_NAME":"1409 新纖"
+   },
+   "1444":{
+      "INSTR_INSNBR":10679,
+      "INSTR_STKID_NAME":"1444 力麗"
+   },
+   "1476":{
+      "INSTR_INSNBR":10892,
+      "INSTR_STKID_NAME":"1476 儒鴻"
+   },
+   "1477":{
+      "INSTR_INSNBR":10893,
+      "INSTR_STKID_NAME":"1477 聚陽"
+   },
+   "1504":{
+      "INSTR_INSNBR":10910,
+      "INSTR_STKID_NAME":"1504 東元"
+   },
+   "1513":{
+      "INSTR_INSNBR":11095,
+      "INSTR_STKID_NAME":"1513 中興電"
+   },
+   "1515":{
+      "INSTR_INSNBR":11097,
+      "INSTR_STKID_NAME":"1515 力山"
+   },
+   "1527":{
+      "INSTR_INSNBR":11116,
+      "INSTR_STKID_NAME":"1527 鑽全"
+   },
+   "1532":{
+      "INSTR_INSNBR":11284,
+      "INSTR_STKID_NAME":"1532 勤美"
+   },
+   "1536":{
+      "INSTR_INSNBR":11296,
+      "INSTR_STKID_NAME":"1536 和大"
+   },
+   "1560":{
+      "INSTR_INSNBR":11310,
+      "INSTR_STKID_NAME":"1560 中砂"
+   },
+   "1565":{
+      "INSTR_INSNBR":11312,
+      "INSTR_STKID_NAME":"1565 精華"
+   },
+   "1586":{
+      "INSTR_INSNBR":11489,
+      "INSTR_STKID_NAME":"1586 和勤"
+   },
+   "1589":{
+      "INSTR_INSNBR":11492,
+      "INSTR_STKID_NAME":"1589 永冠-KY"
+   },
+   "1590":{
+      "INSTR_INSNBR":11494,
+      "INSTR_STKID_NAME":"1590 亞德客-KY"
+   },
+   "1597":{
+      "INSTR_INSNBR":11500,
+      "INSTR_STKID_NAME":"1597 直得"
+   },
+   "1605":{
+      "INSTR_INSNBR":11524,
+      "INSTR_STKID_NAME":"1605 華新"
+   },
+   "1609":{
+      "INSTR_INSNBR":12410,
+      "INSTR_STKID_NAME":"1609 大亞"
+   },
+   "1707":{
+      "INSTR_INSNBR":10245,
+      "INSTR_STKID_NAME":"1707 葡萄王"
+   },
+   "1710":{
+      "INSTR_INSNBR":10249,
+      "INSTR_STKID_NAME":"1710 東聯"
+   },
+   "1718":{
+      "INSTR_INSNBR":10491,
+      "INSTR_STKID_NAME":"1718 中纖"
+   },
+   "1722":{
+      "INSTR_INSNBR":10500,
+      "INSTR_STKID_NAME":"1722 台肥"
+   },
+   "1760":{
+      "INSTR_INSNBR":10528,
+      "INSTR_STKID_NAME":"1760 寶齡富錦"
+   },
+   "1808":{
+      "INSTR_INSNBR":10738,
+      "INSTR_STKID_NAME":"1808 潤隆"
+   },
+   "1815":{
+      "INSTR_INSNBR":10748,
+      "INSTR_STKID_NAME":"1815 富喬"
+   },
+   "1904":{
+      "INSTR_INSNBR":10926,
+      "INSTR_STKID_NAME":"1904 正隆"
+   },
+   "1909":{
+      "INSTR_INSNBR":10942,
+      "INSTR_STKID_NAME":"1909 榮成"
+   },
+   "2002":{
+      "INSTR_INSNBR":10951,
+      "INSTR_STKID_NAME":"2002 中鋼"
+   },
+   "2014":{
+      "INSTR_INSNBR":11138,
+      "INSTR_STKID_NAME":"2014 中鴻"
+   },
+   "2027":{
+      "INSTR_INSNBR":11176,
+      "INSTR_STKID_NAME":"2027 大成鋼"
+   },
+   "2031":{
+      "INSTR_INSNBR":11342,
+      "INSTR_STKID_NAME":"2031 新光鋼"
+   },
+   "2049":{
+      "INSTR_INSNBR":11358,
+      "INSTR_STKID_NAME":"2049 上銀"
+   },
+   "2104":{
+      "INSTR_INSNBR":11379,
+      "INSTR_STKID_NAME":"2104 國際中橡"
+   },
+   "2105":{
+      "INSTR_INSNBR":12618,
+      "INSTR_STKID_NAME":"2105 正新"
+   },
+   "2208":{
+      "INSTR_INSNBR":12651,
+      "INSTR_STKID_NAME":"2208 台船"
+   },
+   "2231":{
+      "INSTR_INSNBR":12657,
+      "INSTR_STKID_NAME":"2231 為升"
+   },
+   "2233":{
+      "INSTR_INSNBR":12659,
+      "INSTR_STKID_NAME":"2233 宇隆"
+   },
+   "2301":{
+      "INSTR_INSNBR":12662,
+      "INSTR_STKID_NAME":"2301 光寶科"
+   },
+   "2303":{
+      "INSTR_INSNBR":10266,
+      "INSTR_STKID_NAME":"2303 聯電"
+   },
+   "2308":{
+      "INSTR_INSNBR":10308,
+      "INSTR_STKID_NAME":"2308 台達電"
+   },
+   "2312":{
+      "INSTR_INSNBR":10538,
+      "INSTR_STKID_NAME":"2312 金寶"
+   },
+   "2313":{
+      "INSTR_INSNBR":10541,
+      "INSTR_STKID_NAME":"2313 華通"
+   },
+   "2317":{
+      "INSTR_INSNBR":10560,
+      "INSTR_STKID_NAME":"2317 鴻海"
+   },
+   "2323":{
+      "INSTR_INSNBR":10586,
+      "INSTR_STKID_NAME":"2323 中環"
+   },
+   "2324":{
+      "INSTR_INSNBR":10753,
+      "INSTR_STKID_NAME":"2324 仁寶"
+   },
+   "2327":{
+      "INSTR_INSNBR":10772,
+      "INSTR_STKID_NAME":"2327 國巨"
+   },
+   "2328":{
+      "INSTR_INSNBR":10777,
+      "INSTR_STKID_NAME":"2328 廣宇"
+   },
+   "2330":{
+      "INSTR_INSNBR":10786,
+      "INSTR_STKID_NAME":"2330 台積電"
+   },
+   "2332":{
+      "INSTR_INSNBR":10790,
+      "INSTR_STKID_NAME":"2332 友訊"
+   },
+   "2337":{
+      "INSTR_INSNBR":10970,
+      "INSTR_STKID_NAME":"2337 旺宏"
+   },
+   "2338":{
+      "INSTR_INSNBR":10978,
+      "INSTR_STKID_NAME":"2338 光罩"
+   },
+   "2340":{
+      "INSTR_INSNBR":10986,
+      "INSTR_STKID_NAME":"2340 光磊"
+   },
+   "2344":{
+      "INSTR_INSNBR":11016,
+      "INSTR_STKID_NAME":"2344 華邦電"
+   },
+   "2345":{
+      "INSTR_INSNBR":11187,
+      "INSTR_STKID_NAME":"2345 智邦"
+   },
+   "2347":{
+      "INSTR_INSNBR":11201,
+      "INSTR_STKID_NAME":"2347 聯強"
+   },
+   "2351":{
+      "INSTR_INSNBR":11214,
+      "INSTR_STKID_NAME":"2351 順德"
+   },
+   "2352":{
+      "INSTR_INSNBR":11215,
+      "INSTR_STKID_NAME":"2352 佳世達"
+   },
+   "2353":{
+      "INSTR_INSNBR":11225,
+      "INSTR_STKID_NAME":"2353 宏碁"
+   },
+   "2355":{
+      "INSTR_INSNBR":11385,
+      "INSTR_STKID_NAME":"2355 敬鵬"
+   },
+   "2356":{
+      "INSTR_INSNBR":11387,
+      "INSTR_STKID_NAME":"2356 英業達"
+   },
+   "2357":{
+      "INSTR_INSNBR":11388,
+      "INSTR_STKID_NAME":"2357 華碩"
+   },
+   "2360":{
+      "INSTR_INSNBR":11397,
+      "INSTR_STKID_NAME":"2360 致茂"
+   },
+   "2363":{
+      "INSTR_INSNBR":11405,
+      "INSTR_STKID_NAME":"2363 矽統"
+   },
+   "2367":{
+      "INSTR_INSNBR":11415,
+      "INSTR_STKID_NAME":"2367 燿華"
+   },
+   "2368":{
+      "INSTR_INSNBR":11416,
+      "INSTR_STKID_NAME":"2368 金像電"
+   },
+   "2371":{
+      "INSTR_INSNBR":11423,
+      "INSTR_STKID_NAME":"2371 大同"
+   },
+   "2375":{
+      "INSTR_INSNBR":11435,
+      "INSTR_STKID_NAME":"2375 智寶"
+   },
+   "2376":{
+      "INSTR_INSNBR":11436,
+      "INSTR_STKID_NAME":"2376 技嘉"
+   },
+   "2377":{
+      "INSTR_INSNBR":11544,
+      "INSTR_STKID_NAME":"2377 微星"
+   },
+   "2379":{
+      "INSTR_INSNBR":11549,
+      "INSTR_STKID_NAME":"2379 瑞昱"
+   },
+   "2382":{
+      "INSTR_INSNBR":11556,
+      "INSTR_STKID_NAME":"2382 廣達"
+   },
+   "2383":{
+      "INSTR_INSNBR":11562,
+      "INSTR_STKID_NAME":"2383 台光電"
+   },
+   "2392":{
+      "INSTR_INSNBR":11591,
+      "INSTR_STKID_NAME":"2392 正崴"
+   },
+   "2393":{
+      "INSTR_INSNBR":10326,
+      "INSTR_STKID_NAME":"2393 億光"
+   },
+   "2401":{
+      "INSTR_INSNBR":10353,
+      "INSTR_STKID_NAME":"2401 凌陽"
+   },
+   "2404":{
+      "INSTR_INSNBR":10358,
+      "INSTR_STKID_NAME":"2404 漢唐"
+   },
+   "2408":{
+      "INSTR_INSNBR":10370,
+      "INSTR_STKID_NAME":"2408 南亞科"
+   },
+   "2409":{
+      "INSTR_INSNBR":10372,
+      "INSTR_STKID_NAME":"2409 友達"
+   },
+   "2412":{
+      "INSTR_INSNBR":10599,
+      "INSTR_STKID_NAME":"2412 中華電"
+   },
+   "2421":{
+      "INSTR_INSNBR":10630,
+      "INSTR_STKID_NAME":"2421 建準"
+   },
+   "2426":{
+      "INSTR_INSNBR":10814,
+      "INSTR_STKID_NAME":"2426 鼎元"
+   },
+   "2428":{
+      "INSTR_INSNBR":10826,
+      "INSTR_STKID_NAME":"2428 興勤"
+   },
+   "2439":{
+      "INSTR_INSNBR":10844,
+      "INSTR_STKID_NAME":"2439 美律"
+   },
+   "2448":{
+      "INSTR_INSNBR":11026,
+      "INSTR_STKID_NAME":"2448 晶電"
+   },
+   "2449":{
+      "INSTR_INSNBR":11030,
+      "INSTR_STKID_NAME":"2449 京元電子"
+   },
+   "2454":{
+      "INSTR_INSNBR":11037,
+      "INSTR_STKID_NAME":"2454 聯發科"
+   },
+   "2455":{
+      "INSTR_INSNBR":11038,
+      "INSTR_STKID_NAME":"2455 全新"
+   },
+   "2456":{
+      "INSTR_INSNBR":11040,
+      "INSTR_STKID_NAME":"2456 奇力新"
+   },
+   "2458":{
+      "INSTR_INSNBR":11046,
+      "INSTR_STKID_NAME":"2458 義隆"
+   },
+   "2464":{
+      "INSTR_INSNBR":11064,
+      "INSTR_STKID_NAME":"2464 盟立"
+   },
+   "2474":{
+      "INSTR_INSNBR":11255,
+      "INSTR_STKID_NAME":"2474 可成"
+   },
+   "2478":{
+      "INSTR_INSNBR":11268,
+      "INSTR_STKID_NAME":"2478 大毅"
+   },
+   "2481":{
+      "INSTR_INSNBR":11281,
+      "INSTR_STKID_NAME":"2481 強茂"
+   },
+   "2492":{
+      "INSTR_INSNBR":11472,
+      "INSTR_STKID_NAME":"2492 華新科"
+   },
+   "2498":{
+      "INSTR_INSNBR":11481,
+      "INSTR_STKID_NAME":"2498 宏達電"
+   },
+   "2515":{
+      "INSTR_INSNBR":11644,
+      "INSTR_STKID_NAME":"2515 中工"
+   },
+   "2520":{
+      "INSTR_INSNBR":12794,
+      "INSTR_STKID_NAME":"2520 冠德"
+   },
+   "2534":{
+      "INSTR_INSNBR":11674,
+      "INSTR_STKID_NAME":"2534 宏盛"
+   },
+   "2542":{
+      "INSTR_INSNBR":11802,
+      "INSTR_STKID_NAME":"2542 興富發"
+   },
+   "2548":{
+      "INSTR_INSNBR":11820,
+      "INSTR_STKID_NAME":"2548 華固"
+   },
+   "2601":{
+      "INSTR_INSNBR":11835,
+      "INSTR_STKID_NAME":"2601 益航"
+   },
+   "2603":{
+      "INSTR_INSNBR":11837,
+      "INSTR_STKID_NAME":"2603 長榮"
+   },
+   "2605":{
+      "INSTR_INSNBR":11844,
+      "INSTR_STKID_NAME":"2605 新興"
+   },
+   "2606":{
+      "INSTR_INSNBR":11845,
+      "INSTR_STKID_NAME":"2606 裕民"
+   },
+   "2610":{
+      "INSTR_INSNBR":12014,
+      "INSTR_STKID_NAME":"2610 華航"
+   },
+   "2614":{
+      "INSTR_INSNBR":12026,
+      "INSTR_STKID_NAME":"2614 東森"
+   },
+   "2617":{
+      "INSTR_INSNBR":12042,
+      "INSTR_STKID_NAME":"2617 台航"
+   },
+   "2618":{
+      "INSTR_INSNBR":12043,
+      "INSTR_STKID_NAME":"2618 長榮航"
+   },
+   "2633":{
+      "INSTR_INSNBR":12049,
+      "INSTR_STKID_NAME":"2633 台灣高鐵"
+   },
+   "2723":{
+      "INSTR_INSNBR":13021,
+      "INSTR_STKID_NAME":"2723 美食-KY"
+   },
+   "2732":{
+      "INSTR_INSNBR":13029,
+      "INSTR_STKID_NAME":"2732 六角"
+   },
+   "2801":{
+      "INSTR_INSNBR":13039,
+      "INSTR_STKID_NAME":"2801 彰銀"
+   },
+   "2823":{
+      "INSTR_INSNBR":13291,
+      "INSTR_STKID_NAME":"2823 中壽"
+   },
+   "2834":{
+      "INSTR_INSNBR":13689,
+      "INSTR_STKID_NAME":"2834 臺企銀"
+   },
+   "2881":{
+      "INSTR_INSNBR":13727,
+      "INSTR_STKID_NAME":"2881 富邦金"
+   },
+   "2882":{
+      "INSTR_INSNBR":13728,
+      "INSTR_STKID_NAME":"2882 國泰金"
+   },
+   "2883":{
+      "INSTR_INSNBR":13729,
+      "INSTR_STKID_NAME":"2883 開發金"
+   },
+   "2884":{
+      "INSTR_INSNBR":13732,
+      "INSTR_STKID_NAME":"2884 玉山金"
+   },
+   "2885":{
+      "INSTR_INSNBR":13734,
+      "INSTR_STKID_NAME":"2885 元大金"
+   },
+   "2886":{
+      "INSTR_INSNBR":13736,
+      "INSTR_STKID_NAME":"2886 兆豐金"
+   },
+   "2887":{
+      "INSTR_INSNBR":13738,
+      "INSTR_STKID_NAME":"2887 台新金"
+   },
+   "2888":{
+      "INSTR_INSNBR":14261,
+      "INSTR_STKID_NAME":"2888 新光金"
+   },
+   "2889":{
+      "INSTR_INSNBR":14266,
+      "INSTR_STKID_NAME":"2889 國票金"
+   },
+   "2890":{
+      "INSTR_INSNBR":14267,
+      "INSTR_STKID_NAME":"2890 永豐金"
+   },
+   "2891":{
+      "INSTR_INSNBR":14268,
+      "INSTR_STKID_NAME":"2891 中信金"
+   },
+   "2892":{
+      "INSTR_INSNBR":14271,
+      "INSTR_STKID_NAME":"2892 第一金"
+   },
+   "2913":{
+      "INSTR_INSNBR":14299,
+      "INSTR_STKID_NAME":"2913 農林"
+   },
+   "2915":{
+      "INSTR_INSNBR":14304,
+      "INSTR_STKID_NAME":"2915 潤泰全"
+   },
+   "2929":{
+      "INSTR_INSNBR":14472,
+      "INSTR_STKID_NAME":"2929 淘帝-KY"
+   },
+   "3006":{
+      "INSTR_INSNBR":11708,
+      "INSTR_STKID_NAME":"3006 晶豪科"
+   },
+   "3008":{
+      "INSTR_INSNBR":11710,
+      "INSTR_STKID_NAME":"3008 大立光"
+   },
+   "3016":{
+      "INSTR_INSNBR":11726,
+      "INSTR_STKID_NAME":"3016 嘉晶"
+   },
+   "3017":{
+      "INSTR_INSNBR":11729,
+      "INSTR_STKID_NAME":"3017 奇鋐"
+   },
+   "3019":{
+      "INSTR_INSNBR":11734,
+      "INSTR_STKID_NAME":"3019 亞光"
+   },
+   "3023":{
+      "INSTR_INSNBR":11903,
+      "INSTR_STKID_NAME":"3023 信邦"
+   },
+   "3026":{
+      "INSTR_INSNBR":11916,
+      "INSTR_STKID_NAME":"3026 禾伸堂"
+   },
+   "3030":{
+      "INSTR_INSNBR":11929,
+      "INSTR_STKID_NAME":"3030 德律"
+   },
+   "3034":{
+      "INSTR_INSNBR":11936,
+      "INSTR_STKID_NAME":"3034 聯詠"
+   },
+   "3035":{
+      "INSTR_INSNBR":11939,
+      "INSTR_STKID_NAME":"3035 智原"
+   },
+   "3037":{
+      "INSTR_INSNBR":11948,
+      "INSTR_STKID_NAME":"3037 欣興"
+   },
+   "3044":{
+      "INSTR_INSNBR":12591,
+      "INSTR_STKID_NAME":"3044 健鼎"
+   },
+   "3045":{
+      "INSTR_INSNBR":12593,
+      "INSTR_STKID_NAME":"3045 台灣大"
+   },
+   "3049":{
+      "INSTR_INSNBR":12609,
+      "INSTR_STKID_NAME":"3049 和鑫"
+   },
+   "3059":{
+      "INSTR_INSNBR":13164,
+      "INSTR_STKID_NAME":"3059 華晶科"
+   },
+   "3078":{
+      "INSTR_INSNBR":13199,
+      "INSTR_STKID_NAME":"3078 僑威"
+   },
+   "3081":{
+      "INSTR_INSNBR":13588,
+      "INSTR_STKID_NAME":"3081 聯亞"
+   },
+   "3083":{
+      "INSTR_INSNBR":13590,
+      "INSTR_STKID_NAME":"3083 網龍"
+   },
+   "3088":{
+      "INSTR_INSNBR":13598,
+      "INSTR_STKID_NAME":"3088 艾訊"
+   },
+   "3090":{
+      "INSTR_INSNBR":13602,
+      "INSTR_STKID_NAME":"3090 日電貿"
+   },
+   "3092":{
+      "INSTR_INSNBR":13605,
+      "INSTR_STKID_NAME":"3092 鴻碩"
+   },
+   "3105":{
+      "INSTR_INSNBR":13619,
+      "INSTR_STKID_NAME":"3105 穩懋"
+   },
+   "3152":{
+      "INSTR_INSNBR":13967,
+      "INSTR_STKID_NAME":"3152 璟德"
+   },
+   "3163":{
+      "INSTR_INSNBR":13973,
+      "INSTR_STKID_NAME":"3163 波若威"
+   },
+   "3189":{
+      "INSTR_INSNBR":13994,
+      "INSTR_STKID_NAME":"3189 景碩"
+   },
+   "3211":{
+      "INSTR_INSNBR":14063,
+      "INSTR_STKID_NAME":"3211 順達"
+   },
+   "3217":{
+      "INSTR_INSNBR":14070,
+      "INSTR_STKID_NAME":"3217 優群"
+   },
+   "3227":{
+      "INSTR_INSNBR":14082,
+      "INSTR_STKID_NAME":"3227 原相"
+   },
+   "3231":{
+      "INSTR_INSNBR":14089,
+      "INSTR_STKID_NAME":"3231 緯創"
+   },
+   "3236":{
+      "INSTR_INSNBR":14093,
+      "INSTR_STKID_NAME":"3236 千如"
+   },
+   "3260":{
+      "INSTR_INSNBR":14640,
+      "INSTR_STKID_NAME":"3260 威剛"
+   },
+   "3264":{
+      "INSTR_INSNBR":14646,
+      "INSTR_STKID_NAME":"3264 欣銓"
+   },
+   "3265":{
+      "INSTR_INSNBR":11750,
+      "INSTR_STKID_NAME":"3265 台星科"
+   },
+   "3289":{
+      "INSTR_INSNBR":11774,
+      "INSTR_STKID_NAME":"3289 宜特"
+   },
+   "3293":{
+      "INSTR_INSNBR":11781,
+      "INSTR_STKID_NAME":"3293 鈊象"
+   },
+   "3317":{
+      "INSTR_INSNBR":12127,
+      "INSTR_STKID_NAME":"3317 尼克森"
+   },
+   "3323":{
+      "INSTR_INSNBR":12133,
+      "INSTR_STKID_NAME":"3323 加百裕"
+   },
+   "3324":{
+      "INSTR_INSNBR":12137,
+      "INSTR_STKID_NAME":"3324 雙鴻"
+   },
+   "3363":{
+      "INSTR_INSNBR":13060,
+      "INSTR_STKID_NAME":"3363 上詮"
+   },
+   "3376":{
+      "INSTR_INSNBR":13073,
+      "INSTR_STKID_NAME":"3376 新日興"
+   },
+   "3380":{
+      "INSTR_INSNBR":13078,
+      "INSTR_STKID_NAME":"3380 明泰"
+   },
+   "3388":{
+      "INSTR_INSNBR":13089,
+      "INSTR_STKID_NAME":"3388 崇越電"
+   },
+   "3406":{
+      "INSTR_INSNBR":13856,
+      "INSTR_STKID_NAME":"3406 玉晶光"
+   },
+   "3413":{
+      "INSTR_INSNBR":13860,
+      "INSTR_STKID_NAME":"3413 京鼎"
+   },
+   "3443":{
+      "INSTR_INSNBR":13883,
+      "INSTR_STKID_NAME":"3443 創意"
+   },
+   "3450":{
+      "INSTR_INSNBR":13885,
+      "INSTR_STKID_NAME":"3450 聯鈞"
+   },
+   "3454":{
+      "INSTR_INSNBR":13890,
+      "INSTR_STKID_NAME":"3454 晶睿"
+   },
+   "3455":{
+      "INSTR_INSNBR":13892,
+      "INSTR_STKID_NAME":"3455 由田"
+   },
+   "3481":{
+      "INSTR_INSNBR":14215,
+      "INSTR_STKID_NAME":"3481 群創"
+   },
+   "3491":{
+      "INSTR_INSNBR":14225,
+      "INSTR_STKID_NAME":"3491 昇達科"
+   },
+   "3504":{
+      "INSTR_INSNBR":14239,
+      "INSTR_STKID_NAME":"3504 揚明光"
+   },
+   "3515":{
+      "INSTR_INSNBR":14250,
+      "INSTR_STKID_NAME":"3515 華擎"
+   },
+   "3526":{
+      "INSTR_INSNBR":14586,
+      "INSTR_STKID_NAME":"3526 凡甲"
+   },
+   "3527":{
+      "INSTR_INSNBR":14589,
+      "INSTR_STKID_NAME":"3527 聚積"
+   },
+   "3529":{
+      "INSTR_INSNBR":14591,
+      "INSTR_STKID_NAME":"3529 力旺"
+   },
+   "3532":{
+      "INSTR_INSNBR":14594,
+      "INSTR_STKID_NAME":"3532 台勝科"
+   },
+   "3533":{
+      "INSTR_INSNBR":14595,
+      "INSTR_STKID_NAME":"3533 嘉澤"
+   },
+   "3541":{
+      "INSTR_INSNBR":14605,
+      "INSTR_STKID_NAME":"3541 西柏"
+   },
+   "3545":{
+      "INSTR_INSNBR":14609,
+      "INSTR_STKID_NAME":"3545 敦泰"
+   },
+   "3546":{
+      "INSTR_INSNBR":14611,
+      "INSTR_STKID_NAME":"3546 宇峻"
+   },
+   "3548":{
+      "INSTR_INSNBR":14613,
+      "INSTR_STKID_NAME":"3548 兆利"
+   },
+   "3552":{
+      "INSTR_INSNBR":14619,
+      "INSTR_STKID_NAME":"3552 同致"
+   },
+   "3558":{
+      "INSTR_INSNBR":14629,
+      "INSTR_STKID_NAME":"3558 神準"
+   },
+   "3563":{
+      "INSTR_INSNBR":14961,
+      "INSTR_STKID_NAME":"3563 牧德"
+   },
+   "3587":{
+      "INSTR_INSNBR":14988,
+      "INSTR_STKID_NAME":"3587 閎康"
+   },
+   "3596":{
+      "INSTR_INSNBR":15000,
+      "INSTR_STKID_NAME":"3596 智易"
+   },
+   "3611":{
+      "INSTR_INSNBR":11856,
+      "INSTR_STKID_NAME":"3611 鼎翰"
+   },
+   "3624":{
+      "INSTR_INSNBR":11867,
+      "INSTR_STKID_NAME":"3624 光頡"
+   },
+   "3645":{
+      "INSTR_INSNBR":11888,
+      "INSTR_STKID_NAME":"3645 達邁"
+   },
+   "3653":{
+      "INSTR_INSNBR":11894,
+      "INSTR_STKID_NAME":"3653 健策"
+   },
+   "3665":{
+      "INSTR_INSNBR":12314,
+      "INSTR_STKID_NAME":"3665 貿聯-KY"
+   },
+   "3673":{
+      "INSTR_INSNBR":12321,
+      "INSTR_STKID_NAME":"3673 TPK-KY"
+   },
+   "3691":{
+      "INSTR_INSNBR":12338,
+      "INSTR_STKID_NAME":"3691 碩禾"
+   },
+   "3698":{
+      "INSTR_INSNBR":12343,
+      "INSTR_STKID_NAME":"3698 隆達"
+   },
+   "3702":{
+      "INSTR_INSNBR":12348,
+      "INSTR_STKID_NAME":"3702 大聯大"
+   },
+   "3707":{
+      "INSTR_INSNBR":12354,
+      "INSTR_STKID_NAME":"3707 漢磊"
+   },
+   "3708":{
+      "INSTR_INSNBR":2207338,
+      "INSTR_STKID_NAME":"3708 上緯投控"
+   },
+   "3711":{
+      "INSTR_INSNBR":2846890,
+      "INSTR_STKID_NAME":"3711 日月光投控"
+   },
+   "4105":{
+      "INSTR_INSNBR":15369,
+      "INSTR_STKID_NAME":"4105 東洋"
+   },
+   "4107":{
+      "INSTR_INSNBR":15373,
+      "INSTR_STKID_NAME":"4107 邦特"
+   },
+   "4114":{
+      "INSTR_INSNBR":15390,
+      "INSTR_STKID_NAME":"4114 健喬"
+   },
+   "4119":{
+      "INSTR_INSNBR":15401,
+      "INSTR_STKID_NAME":"4119 旭富"
+   },
+   "4123":{
+      "INSTR_INSNBR":15619,
+      "INSTR_STKID_NAME":"4123 晟德"
+   },
+   "4126":{
+      "INSTR_INSNBR":15624,
+      "INSTR_STKID_NAME":"4126 太醫"
+   },
+   "4129":{
+      "INSTR_INSNBR":15630,
+      "INSTR_STKID_NAME":"4129 聯合"
+   },
+   "4130":{
+      "INSTR_INSNBR":15632,
+      "INSTR_STKID_NAME":"4130 健亞"
+   },
+   "4137":{
+      "INSTR_INSNBR":15640,
+      "INSTR_STKID_NAME":"4137 麗豐-KY"
+   },
+   "4147":{
+      "INSTR_INSNBR":15650,
+      "INSTR_STKID_NAME":"4147 中裕"
+   },
+   "4148":{
+      "INSTR_INSNBR":2418905,
+      "INSTR_STKID_NAME":"4148 全宇生技-KY"
+   },
+   "4162":{
+      "INSTR_INSNBR":15664,
+      "INSTR_STKID_NAME":"4162 智擎"
+   },
+   "4163":{
+      "INSTR_INSNBR":15665,
+      "INSTR_STKID_NAME":"4163 鐿鈦"
+   },
+   "4190":{
+      "INSTR_INSNBR":1750046,
+      "INSTR_STKID_NAME":"4190 佐登-KY"
+   },
+   "4426":{
+      "INSTR_INSNBR":16114,
+      "INSTR_STKID_NAME":"4426 利勤"
+   },
+   "4528":{
+      "INSTR_INSNBR":11992,
+      "INSTR_STKID_NAME":"4528 江興鍛"
+   },
+   "4536":{
+      "INSTR_INSNBR":13637,
+      "INSTR_STKID_NAME":"4536 拓凱"
+   },
+   "4551":{
+      "INSTR_INSNBR":13652,
+      "INSTR_STKID_NAME":"4551 智伸科"
+   },
+   "4721":{
+      "INSTR_INSNBR":14009,
+      "INSTR_STKID_NAME":"4721 美琪瑪"
+   },
+   "4728":{
+      "INSTR_INSNBR":14017,
+      "INSTR_STKID_NAME":"4728 雙美"
+   },
+   "4736":{
+      "INSTR_INSNBR":14028,
+      "INSTR_STKID_NAME":"4736 泰博"
+   },
+   "4739":{
+      "INSTR_INSNBR":14033,
+      "INSTR_STKID_NAME":"4739 康普"
+   },
+   "4803":{
+      "INSTR_INSNBR":1869238,
+      "INSTR_STKID_NAME":"4803 VHQ-KY"
+   },
+   "4904":{
+      "INSTR_INSNBR":14492,
+      "INSTR_STKID_NAME":"4904 遠傳"
+   },
+   "4906":{
+      "INSTR_INSNBR":14494,
+      "INSTR_STKID_NAME":"4906 正文"
+   },
+   "4912":{
+      "INSTR_INSNBR":14510,
+      "INSTR_STKID_NAME":"4912 聯德控股-KY"
+   },
+   "4915":{
+      "INSTR_INSNBR":14514,
+      "INSTR_STKID_NAME":"4915 致伸"
+   },
+   "4919":{
+      "INSTR_INSNBR":14518,
+      "INSTR_STKID_NAME":"4919 新唐"
+   },
+   "4927":{
+      "INSTR_INSNBR":14526,
+      "INSTR_STKID_NAME":"4927 泰鼎-KY"
+   },
+   "4938":{
+      "INSTR_INSNBR":14859,
+      "INSTR_STKID_NAME":"4938 和碩"
+   },
+   "4943":{
+      "INSTR_INSNBR":14865,
+      "INSTR_STKID_NAME":"4943 康控-KY"
+   },
+   "4947":{
+      "INSTR_INSNBR":14869,
+      "INSTR_STKID_NAME":"4947 昂寶-KY"
+   },
+   "4953":{
+      "INSTR_INSNBR":14874,
+      "INSTR_STKID_NAME":"4953 緯軟"
+   },
+   "4958":{
+      "INSTR_INSNBR":14877,
+      "INSTR_STKID_NAME":"4958 臻鼎-KY"
+   },
+   "4961":{
+      "INSTR_INSNBR":14879,
+      "INSTR_STKID_NAME":"4961 天鈺"
+   },
+   "4966":{
+      "INSTR_INSNBR":14883,
+      "INSTR_STKID_NAME":"4966 譜瑞-KY"
+   },
+   "4974":{
+      "INSTR_INSNBR":14891,
+      "INSTR_STKID_NAME":"4974 亞泰"
+   },
+   "4991":{
+      "INSTR_INSNBR":15099,
+      "INSTR_STKID_NAME":"4991 環宇-KY"
+   },
+   "5009":{
+      "INSTR_INSNBR":15114,
+      "INSTR_STKID_NAME":"5009 榮剛"
+   },
+   "5234":{
+      "INSTR_INSNBR":15283,
+      "INSTR_STKID_NAME":"5234 達興材料"
+   },
+   "5263":{
+      "INSTR_INSNBR":15303,
+      "INSTR_STKID_NAME":"5263 智崴"
+   },
+   "5264":{
+      "INSTR_INSNBR":15306,
+      "INSTR_STKID_NAME":"5264 鎧勝-KY"
+   },
+   "5269":{
+      "INSTR_INSNBR":12062,
+      "INSTR_STKID_NAME":"5269 祥碩"
+   },
+   "5274":{
+      "INSTR_INSNBR":12065,
+      "INSTR_STKID_NAME":"5274 信驊"
+   },
+   "5287":{
+      "INSTR_INSNBR":12078,
+      "INSTR_STKID_NAME":"5287 數字"
+   },
+   "5288":{
+      "INSTR_INSNBR":12079,
+      "INSTR_STKID_NAME":"5288 豐祥-KY"
+   },
+   "5289":{
+      "INSTR_INSNBR":12080,
+      "INSTR_STKID_NAME":"5289 宜鼎"
+   },
+   "5299":{
+      "INSTR_INSNBR":12085,
+      "INSTR_STKID_NAME":"5299 杰力"
+   },
+   "5305":{
+      "INSTR_INSNBR":12090,
+      "INSTR_STKID_NAME":"5305 敦南"
+   },
+   "5317":{
+      "INSTR_INSNBR":13761,
+      "INSTR_STKID_NAME":"5317 凱美"
+   },
+   "5347":{
+      "INSTR_INSNBR":14560,
+      "INSTR_STKID_NAME":"5347 世界"
+   },
+   "5349":{
+      "INSTR_INSNBR":14564,
+      "INSTR_STKID_NAME":"5349 先豐"
+   },
+   "5371":{
+      "INSTR_INSNBR":14772,
+      "INSTR_STKID_NAME":"5371 中光電"
+   },
+   "5388":{
+      "INSTR_INSNBR":15151,
+      "INSTR_STKID_NAME":"5388 中磊"
+   },
+   "5392":{
+      "INSTR_INSNBR":15161,
+      "INSTR_STKID_NAME":"5392 應華"
+   },
+   "5425":{
+      "INSTR_INSNBR":15211,
+      "INSTR_STKID_NAME":"5425 台半"
+   },
+   "5434":{
+      "INSTR_INSNBR":15232,
+      "INSTR_STKID_NAME":"5434 崇越"
+   },
+   "5439":{
+      "INSTR_INSNBR":15240,
+      "INSTR_STKID_NAME":"5439 高技"
+   },
+   "5443":{
+      "INSTR_INSNBR":15250,
+      "INSTR_STKID_NAME":"5443 均豪"
+   },
+   "5457":{
+      "INSTR_INSNBR":15534,
+      "INSTR_STKID_NAME":"5457 宣德"
+   },
+   "5469":{
+      "INSTR_INSNBR":12206,
+      "INSTR_STKID_NAME":"5469 瀚宇博"
+   },
+   "5483":{
+      "INSTR_INSNBR":12232,
+      "INSTR_STKID_NAME":"5483 中美晶"
+   },
+   "5489":{
+      "INSTR_INSNBR":12238,
+      "INSTR_STKID_NAME":"5489 彩富"
+   },
+   "5511":{
+      "INSTR_INSNBR":12747,
+      "INSTR_STKID_NAME":"5511 德昌"
+   },
+   "5534":{
+      "INSTR_INSNBR":13446,
+      "INSTR_STKID_NAME":"5534 長虹"
+   },
+   "5536":{
+      "INSTR_INSNBR":13450,
+      "INSTR_STKID_NAME":"5536 聖暉"
+   },
+   "5871":{
+      "INSTR_INSNBR":14703,
+      "INSTR_STKID_NAME":"5871 中租-KY"
+   },
+   "5876":{
+      "INSTR_INSNBR":14704,
+      "INSTR_STKID_NAME":"5876 上海商銀"
+   },
+   "5880":{
+      "INSTR_INSNBR":14706,
+      "INSTR_STKID_NAME":"5880 合庫金"
+   },
+   "6104":{
+      "INSTR_INSNBR":15029,
+      "INSTR_STKID_NAME":"6104 創惟"
+   },
+   "6111":{
+      "INSTR_INSNBR":15047,
+      "INSTR_STKID_NAME":"6111 大宇資"
+   },
+   "6116":{
+      "INSTR_INSNBR":15058,
+      "INSTR_STKID_NAME":"6116 彩晶"
+   },
+   "6120":{
+      "INSTR_INSNBR":15312,
+      "INSTR_STKID_NAME":"6120 達運"
+   },
+   "6121":{
+      "INSTR_INSNBR":15317,
+      "INSTR_STKID_NAME":"6121 新普"
+   },
+   "6138":{
+      "INSTR_INSNBR":15570,
+      "INSTR_STKID_NAME":"6138 茂達"
+   },
+   "6143":{
+      "INSTR_INSNBR":15581,
+      "INSTR_STKID_NAME":"6143 振曜"
+   },
+   "6146":{
+      "INSTR_INSNBR":15585,
+      "INSTR_STKID_NAME":"6146 耕興"
+   },
+   "6147":{
+      "INSTR_INSNBR":15588,
+      "INSTR_STKID_NAME":"6147 頎邦"
+   },
+   "6150":{
+      "INSTR_INSNBR":15594,
+      "INSTR_STKID_NAME":"6150 撼訊"
+   },
+   "6153":{
+      "INSTR_INSNBR":15602,
+      "INSTR_STKID_NAME":"6153 嘉聯益"
+   },
+   "6158":{
+      "INSTR_INSNBR":15775,
+      "INSTR_STKID_NAME":"6158 禾昌"
+   },
+   "6173":{
+      "INSTR_INSNBR":12186,
+      "INSTR_STKID_NAME":"6173 信昌電"
+   },
+   "6175":{
+      "INSTR_INSNBR":12191,
+      "INSTR_STKID_NAME":"6175 立敦"
+   },
+   "6176":{
+      "INSTR_INSNBR":12194,
+      "INSTR_STKID_NAME":"6176 瑞儀"
+   },
+   "6180":{
+      "INSTR_INSNBR":13495,
+      "INSTR_STKID_NAME":"6180 橘子"
+   },
+   "6182":{
+      "INSTR_INSNBR":13498,
+      "INSTR_STKID_NAME":"6182 合晶"
+   },
+   "6187":{
+      "INSTR_INSNBR":13511,
+      "INSTR_STKID_NAME":"6187 萬潤"
+   },
+   "6188":{
+      "INSTR_INSNBR":13515,
+      "INSTR_STKID_NAME":"6188 廣明"
+   },
+   "6196":{
+      "INSTR_INSNBR":13533,
+      "INSTR_STKID_NAME":"6196 帆宣"
+   },
+   "6202":{
+      "INSTR_INSNBR":14316,
+      "INSTR_STKID_NAME":"6202 盛群"
+   },
+   "6207":{
+      "INSTR_INSNBR":14325,
+      "INSTR_STKID_NAME":"6207 雷科"
+   },
+   "6213":{
+      "INSTR_INSNBR":14338,
+      "INSTR_STKID_NAME":"6213 聯茂"
+   },
+   "6220":{
+      "INSTR_INSNBR":14359,
+      "INSTR_STKID_NAME":"6220 岳豐"
+   },
+   "6223":{
+      "INSTR_INSNBR":14659,
+      "INSTR_STKID_NAME":"6223 旺矽"
+   },
+   "6230":{
+      "INSTR_INSNBR":14676,
+      "INSTR_STKID_NAME":"6230 超眾"
+   },
+   "6238":{
+      "INSTR_INSNBR":14692,
+      "INSTR_STKID_NAME":"6238 勝麗"
+   },
+   "6239":{
+      "INSTR_INSNBR":14695,
+      "INSTR_STKID_NAME":"6239 力成"
+   },
+   "6245":{
+      "INSTR_INSNBR":14811,
+      "INSTR_STKID_NAME":"6245 立端"
+   },
+   "6257":{
+      "INSTR_INSNBR":14830,
+      "INSTR_STKID_NAME":"6257 矽格"
+   },
+   "6269":{
+      "INSTR_INSNBR":15063,
+      "INSTR_STKID_NAME":"6269 台郡"
+   },
+   "6271":{
+      "INSTR_INSNBR":15069,
+      "INSTR_STKID_NAME":"6271 同欣電"
+   },
+   "6274":{
+      "INSTR_INSNBR":15074,
+      "INSTR_STKID_NAME":"6274 台燿"
+   },
+   "6278":{
+      "INSTR_INSNBR":15084,
+      "INSTR_STKID_NAME":"6278 台表科"
+   },
+   "6279":{
+      "INSTR_INSNBR":15085,
+      "INSTR_STKID_NAME":"6279 胡連"
+   },
+   "6282":{
+      "INSTR_INSNBR":15088,
+      "INSTR_STKID_NAME":"6282 康舒"
+   },
+   "6283":{
+      "INSTR_INSNBR":15089,
+      "INSTR_STKID_NAME":"6283 淳安"
+   },
+   "6284":{
+      "INSTR_INSNBR":15091,
+      "INSTR_STKID_NAME":"6284 佳邦"
+   },
+   "6285":{
+      "INSTR_INSNBR":15094,
+      "INSTR_STKID_NAME":"6285 啟碁"
+   },
+   "6290":{
+      "INSTR_INSNBR":12263,
+      "INSTR_STKID_NAME":"6290 良維"
+   },
+   "6411":{
+      "INSTR_INSNBR":12288,
+      "INSTR_STKID_NAME":"6411 晶焱"
+   },
+   "6414":{
+      "INSTR_INSNBR":12290,
+      "INSTR_STKID_NAME":"6414 樺漢"
+   },
+   "6415":{
+      "INSTR_INSNBR":12291,
+      "INSTR_STKID_NAME":"6415 矽力-KY"
+   },
+   "6435":{
+      "INSTR_INSNBR":12306,
+      "INSTR_STKID_NAME":"6435 大中"
+   },
+   "6438":{
+      "INSTR_INSNBR":12940,
+      "INSTR_STKID_NAME":"6438 迅得"
+   },
+   "6451":{
+      "INSTR_INSNBR":22469,
+      "INSTR_STKID_NAME":"6451 訊芯-KY"
+   },
+   "6452":{
+      "INSTR_INSNBR":22443,
+      "INSTR_STKID_NAME":"6452 康友-KY"
+   },
+   "6456":{
+      "INSTR_INSNBR":1251079,
+      "INSTR_STKID_NAME":"6456 GIS-KY"
+   },
+   "6462":{
+      "INSTR_INSNBR":12952,
+      "INSTR_STKID_NAME":"6462 神盾"
+   },
+   "6472":{
+      "INSTR_INSNBR":12960,
+      "INSTR_STKID_NAME":"6472 保瑞"
+   },
+   "6488":{
+      "INSTR_INSNBR":12971,
+      "INSTR_STKID_NAME":"6488 環球晶"
+   },
+   "6499":{
+      "INSTR_INSNBR":12980,
+      "INSTR_STKID_NAME":"6499 益安"
+   },
+   "6510":{
+      "INSTR_INSNBR":13314,
+      "INSTR_STKID_NAME":"6510 精測"
+   },
+   "6525":{
+      "INSTR_INSNBR":2084343,
+      "INSTR_STKID_NAME":"6525 捷敏-KY"
+   },
+   "6552":{
+      "INSTR_INSNBR":1605691,
+      "INSTR_STKID_NAME":"6552 易華電"
+   },
+   "6561":{
+      "INSTR_INSNBR":2430150,
+      "INSTR_STKID_NAME":"6561 是方"
+   },
+   "6568":{
+      "INSTR_INSNBR":1932493,
+      "INSTR_STKID_NAME":"6568 宏觀"
+   },
+   "6643":{
+      "INSTR_INSNBR":2531117,
+      "INSTR_STKID_NAME":"6643 M31"
+   },
+   "6664":{
+      "INSTR_INSNBR":2573825,
+      "INSTR_STKID_NAME":"6664 群翊"
+   },
+   "6666":{
+      "INSTR_INSNBR":3378673,
+      "INSTR_STKID_NAME":"6666 羅麗芬-KY"
+   },
+   "6670":{
+      "INSTR_INSNBR":2627432,
+      "INSTR_STKID_NAME":"6670 復盛應用"
+   },
+   "8016":{
+      "INSTR_INSNBR":12481,
+      "INSTR_STKID_NAME":"8016 矽創"
+   },
+   "8027":{
+      "INSTR_INSNBR":12496,
+      "INSTR_STKID_NAME":"8027 鈦昇"
+   },
+   "8039":{
+      "INSTR_INSNBR":12511,
+      "INSTR_STKID_NAME":"8039 台虹"
+   },
+   "8042":{
+      "INSTR_INSNBR":13545,
+      "INSTR_STKID_NAME":"8042 金山電"
+   },
+   "8043":{
+      "INSTR_INSNBR":13549,
+      "INSTR_STKID_NAME":"8043 蜜望實"
+   },
+   "8046":{
+      "INSTR_INSNBR":13553,
+      "INSTR_STKID_NAME":"8046 南電"
+   },
+   "8050":{
+      "INSTR_INSNBR":13560,
+      "INSTR_STKID_NAME":"8050 廣積"
+   },
+   "8064":{
+      "INSTR_INSNBR":13578,
+      "INSTR_STKID_NAME":"8064 東捷"
+   },
+   "8069":{
+      "INSTR_INSNBR":12358,
+      "INSTR_STKID_NAME":"8069 元太"
+   },
+   "8076":{
+      "INSTR_INSNBR":12376,
+      "INSTR_STKID_NAME":"8076 伍豐"
+   },
+   "8091":{
+      "INSTR_INSNBR":12835,
+      "INSTR_STKID_NAME":"8091 翔名"
+   },
+   "8110":{
+      "INSTR_INSNBR":12870,
+      "INSTR_STKID_NAME":"8110 華東"
+   },
+   "8150":{
+      "INSTR_INSNBR":13807,
+      "INSTR_STKID_NAME":"8150 南茂"
+   },
+   "8155":{
+      "INSTR_INSNBR":13808,
+      "INSTR_STKID_NAME":"8155 博智"
+   },
+   "8163":{
+      "INSTR_INSNBR":13810,
+      "INSTR_STKID_NAME":"8163 達方"
+   },
+   "8210":{
+      "INSTR_INSNBR":13833,
+      "INSTR_STKID_NAME":"8210 勤誠"
+   },
+   "8213":{
+      "INSTR_INSNBR":13834,
+      "INSTR_STKID_NAME":"8213 志超"
+   },
+   "8215":{
+      "INSTR_INSNBR":13835,
+      "INSTR_STKID_NAME":"8215 明基材"
+   },
+   "8255":{
+      "INSTR_INSNBR":14159,
+      "INSTR_STKID_NAME":"8255 朋程"
+   },
+   "8299":{
+      "INSTR_INSNBR":14185,
+      "INSTR_STKID_NAME":"8299 群聯"
+   },
+   "8341":{
+      "INSTR_INSNBR":14193,
+      "INSTR_STKID_NAME":"8341 日友"
+   },
+   "8358":{
+      "INSTR_INSNBR":14199,
+      "INSTR_STKID_NAME":"8358 金居"
+   },
+   "8383":{
+      "INSTR_INSNBR":15667,
+      "INSTR_STKID_NAME":"8383 千附"
+   },
+   "8403":{
+      "INSTR_INSNBR":15677,
+      "INSTR_STKID_NAME":"8403 盛弘"
+   },
+   "8406":{
+      "INSTR_INSNBR":15681,
+      "INSTR_STKID_NAME":"8406 金可-KY"
+   },
+   "8415":{
+      "INSTR_INSNBR":15688,
+      "INSTR_STKID_NAME":"8415 大國鋼"
+   },
+   "8436":{
+      "INSTR_INSNBR":15706,
+      "INSTR_STKID_NAME":"8436 大江"
+   },
+   "8446":{
+      "INSTR_INSNBR":15711,
+      "INSTR_STKID_NAME":"8446 華研"
+   },
+   "8489":{
+      "INSTR_INSNBR":1902992,
+      "INSTR_STKID_NAME":"8489 三貝德"
+   },
+   "8916":{
+      "INSTR_INSNBR":13397,
+      "INSTR_STKID_NAME":"8916 光隆"
+   },
+   "8926":{
+      "INSTR_INSNBR":13412,
+      "INSTR_STKID_NAME":"8926 台汽電"
+   },
+   "8938":{
+      "INSTR_INSNBR":13903,
+      "INSTR_STKID_NAME":"8938 明安"
+   },
+   "8942":{
+      "INSTR_INSNBR":13910,
+      "INSTR_STKID_NAME":"8942 森鉅"
+   },
+   "9802":{
+      "INSTR_INSNBR":14438,
+      "INSTR_STKID_NAME":"9802 鈺齊-KY"
+   },
+   "9904":{
+      "INSTR_INSNBR":14446,
+      "INSTR_STKID_NAME":"9904 寶成"
+   },
+   "9914":{
+      "INSTR_INSNBR":14466,
+      "INSTR_STKID_NAME":"9914 美利達"
+   },
+   "9921":{
+      "INSTR_INSNBR":15465,
+      "INSTR_STKID_NAME":"9921 巨大"
+   },
+   "9938":{
+      "INSTR_INSNBR":15499,
+      "INSTR_STKID_NAME":"9938 百和"
+   },
+   "9939":{
+      "INSTR_INSNBR":15501,
+      "INSTR_STKID_NAME":"9939 宏全"
+   },
+   "9945":{
+      "INSTR_INSNBR":16046,
+      "INSTR_STKID_NAME":"9945 潤泰新"
+   },
+   "9951":{
+      "INSTR_INSNBR":16054,
+      "INSTR_STKID_NAME":"9951 皇田"
+   },
+   "9958":{
+      "INSTR_INSNBR":16063,
+      "INSTR_STKID_NAME":"9958 世紀鋼"
+   },
+   "IX0001":{
+      "INSTR_INSNBR":200,
+      "INSTR_STKID_NAME":"IX0001 加權指數"
+   },
+   "IX0027":{
+      "INSTR_INSNBR":226,
+      "INSTR_STKID_NAME":"IX0027 電子類指"
+   },
+   "IX0039":{
+      "INSTR_INSNBR":238,
+      "INSTR_STKID_NAME":"IX0039 金融保險"
+   }
+}
